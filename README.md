@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working with at Acom with their RD and AI team.
-- 🌱 I’m currently learning ...
+- 🌱 Proficient in software development techniques and data science.
 
-- ⚡ Fun fact: ...
+- 🚑 I'm also a Emergency medical technician.
 
