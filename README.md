@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=2000&pause=100&color=737E8E&width=435&lines=Hello+world+!;Love+coding+and+data+analysis.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=2000&pause=100&color=737E8E&width=435&lines=Hello+world+!;Love+coding+and+data+analysis.)](https://git.io/typing-svg)  
+I am House. Master-degreed and academically experienced in bioinformatics and information engineering. I work as a Back-end developer.
 ### 👋 Quiet introduction
 
 - 🔭 I’m currently working at [Acom](https://www.acom-networks.com/3931838913.html) with their RD and AI team.
