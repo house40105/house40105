@@ -25,5 +25,5 @@
 <img style="padding:5px;" align="center" alt="vscode" width="35px" title="VsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=house40105&hide_progress=true)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=house40105&layout=compact)
