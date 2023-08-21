@@ -9,3 +9,16 @@
 ---
 ### 📭 Connect me
 [![LinkedIn]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/hao-hsu-749b20268/ "LinkedIn")  [![Instagram](https://camo.githubusercontent.com/744f5586e9eee9ca48c84aa31a04cbc28fa9da0359eba6856cc26ce041db3031/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4531333036433f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465 )](https://instagram.com/house_hs?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D "Instagram")  
+
+---
+### ☑️ Languages  
+
+<p float="left">
+<img style="padding:5px;" align="center" alt="cpp" width="35px" title="cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
+<img style="padding:5px;" align="center" alt="python" width="35px" title="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img style="padding:5px;" align="center" alt="perl" width="35px" title="perl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"/>
+<img style="padding:5px;" align="center" alt="go" width="35px" title="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/>
+
+<img style="padding:5px;" align="center" alt="sql" width="35px" title="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<img style="padding:5px;" align="center" alt="vscode" width="35px" title="vscode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+</p>
