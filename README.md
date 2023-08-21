@@ -14,11 +14,16 @@
 ### ☑️ Languages  
 
 <p float="left">
-<img style="padding:5px;" align="center" alt="cpp" width="35px" title="cpp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-<img style="padding:5px;" align="center" alt="python" width="35px" title="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img style="padding:5px;" align="center" alt="perl" width="35px" title="perl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"/>
-<img style="padding:5px;" align="center" alt="go" width="35px" title="go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/>
+<img style="padding:5px;" align="center" alt="r" width="35px" title="R" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
+<img style="padding:5px;" align="center" alt="cpp" width="35px" title="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
+<img style="padding:5px;" align="center" alt="python" width="35px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img style="padding:5px;" align="center" alt="perl" width="35px" title="Perl" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png"/>
+<img style="padding:5px;" align="center" alt="go" width="35px" title="Go" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"/>
 
-<img style="padding:5px;" align="center" alt="sql" width="35px" title="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img style="padding:5px;" align="center" alt="vscode" width="35px" title="vscode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<img style="padding:5px;" align="center" alt="linux" width="35px" title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>
+<img style="padding:5px;" align="center" alt="sql" width="35px" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<img style="padding:5px;" align="center" alt="vscode" width="35px" title="VsCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=house40105&hide_progress=true)
