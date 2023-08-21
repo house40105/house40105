@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=2000&pause=100&color=737E8E&width=435&lines=Hello+world+!;Love+coding+and+data+analysis.)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=2000&pause=500&color=6A778E&width=435&lines=Hello+world+!;Love+coding%2C+data+analytics%2C+and+AI.)](https://git.io/typing-svg)  
+
 I am House. Master-degreed and academically experienced in bioinformatics and information engineering. I work as a Back-end developer now.
 ### 👋 Quiet introduction
 
