@@ -3,8 +3,8 @@
 I am House. Master-degreed and academically experienced in bioinformatics and information engineering. I work as a Back-end developer now.
 ### 👋 Quiet introduction
 
-- 🔭 I’m currently working at [Acom](https://www.acom-networks.com/3931838913.html) with their RD and AI team.
-- 🌱 Proficient in software development techniques and data science.
+- 💻️Software Engineer | 💡️Backend, AI, Data Science 
+- 🌐Rewrite the world, just like rewriting code, but hoping there won't be any bugs this time.
 
 - 🚑 I'm also an Emergency medical technician.
 
