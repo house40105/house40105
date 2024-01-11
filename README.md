@@ -11,7 +11,7 @@ I am House. Master-degreed and academically experienced in bioinformatics and in
 ---
 ### 📭 Connect me
 [![LinkedIn]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/hao-hsu-749b20268/ "LinkedIn")
-[![Medium]( https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@house40105 "Medium")
+[![Medium]( https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@house40105 "Medium Blog")
 
 ---
 ### ☑️ Languages  
